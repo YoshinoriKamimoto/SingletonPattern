@@ -1,5 +1,5 @@
 // Singletonパターン
-public class SingletonItem
+public sealed class SingletonItem
 {
     private static SingletonItem item;
     

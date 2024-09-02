@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ykwo0\\Desktop\\プログラミング\\学習\\CSharp\\C#_Sample.csproj",
+      "projectUniqueName": "C:\\Users\\ykwo0\\Desktop\\プログラミング\\学習\\CSharp\\SingletonPattern\\C#_Sample.csproj",
       "projectName": "C#_Sample",
-      "projectPath": "C:\\Users\\ykwo0\\Desktop\\プログラミング\\学習\\CSharp\\C#_Sample.csproj",
+      "projectPath": "C:\\Users\\ykwo0\\Desktop\\プログラミング\\学習\\CSharp\\SingletonPattern\\C#_Sample.csproj",
       "packagesPath": "C:\\Users\\ykwo0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ykwo0\\Desktop\\プログラミング\\学習\\CSharp\\obj\\",
+      "outputPath": "C:\\Users\\ykwo0\\Desktop\\プログラミング\\学習\\CSharp\\SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
